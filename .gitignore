@@ -12,11 +12,11 @@ yarn-error.log*
 lerna-debug.log*
 .eslintcache
 .stylelintcache
-yarn.lock
 
 # OS
 .DS_Store
 /node_modules
+.nuxt
 
 # Tests
 /coverage
