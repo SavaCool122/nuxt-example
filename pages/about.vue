@@ -19,7 +19,7 @@
 <script>
 export default {
   async setup() {
-    const { data } = await useFetch('/api/ninja?name=John')
+    const { data } = await useFetch('/api/foo?name=John')
 
     return {
       data
